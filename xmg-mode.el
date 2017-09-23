@@ -1,5 +1,7 @@
+;;; xmg-mode.el --- Edit xmg files. -*- lexical-binding: t; -*-
+
 ;; xmg-mode for editing xmg files in Emacs
-;; Copyright (C) <year>  <name of author>
+;; Copyright (C) 2017  Matías Guzmán Naranjo
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
