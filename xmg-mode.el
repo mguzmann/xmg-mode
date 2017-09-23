@@ -3,6 +3,12 @@
 ;; xmg-mode for editing xmg files in Emacs
 ;; Copyright (C) 2017  Matías Guzmán Naranjo
 
+;; Author: Matías Guzmán Naranjo <mortem.dei@gmail.com>
+;; URL: http://github.com/mguzmann/xmg-mode/
+;; Package-Requires: ((emacs "25"))
+;; Version: 0.1
+;; Keywords: xmg
+
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
 ;; the Free Software Foundation, either version 3 of the License, or
