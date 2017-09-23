@@ -22,6 +22,11 @@
 ;; You should have received a copy of the GNU General Public License
 ;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+;;; Commentary:
+;; 
+
+;;; Code:
+
 ;; define several category of keywords
 (setq xmg-keywords '("class" "type" "feature" "export" "declare" "value" "import" "property"))
 (setq xmg-functions '("node" "syn" "sem" "frame"))
